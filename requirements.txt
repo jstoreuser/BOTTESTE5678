@@ -1,0 +1,19 @@
+# ==========================================
+# SIMPLEMMO BOT v4.0.0 - DEPENDÊNCIAS PRINCIPAIS
+# ==========================================
+
+# Automação Web - Core do Bot
+selenium>=4.20.0
+webdriver-manager>=4.0.0    # Gerenciador de WebDrivers
+
+# Comunicação Web
+requests>=2.30.0
+
+# Output Colorido e Formatação
+colorama>=0.4.6
+
+# Utilitários
+python-dateutil>=2.8.0
+
+# Interface Gráfica
+# tkinter (incluído no Python padrão)
